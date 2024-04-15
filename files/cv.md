@@ -4,7 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-{% include base_path %}
 
 <u><a href="https://github.com/HaogeZhou/HaogeZhou.github.io/blob/master/files/CV_HAOGE.pdf">Download CV here.</a></u>
 <br/>
