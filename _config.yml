@@ -3,12 +3,8 @@ description: Electrical Engineer
 author: Haoge Zhou
 avatar: /profile.png
 email: hgzhoucn@gmail.com
+location: Riverside, CA 92507
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
 
 paginate: 10
 
