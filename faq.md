@@ -4,4 +4,4 @@ title: FAQ
 permalink: /faq/
 ---
 
-An FAQ page.
+If you have any qusetion, feel free to reach out me at hgzhoucn@gmail.com
